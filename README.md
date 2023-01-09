@@ -9,5 +9,4 @@ Project is created with:
 * Pandas
 * Scikit-learn
 	
-## Working
 
